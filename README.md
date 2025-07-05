@@ -37,7 +37,7 @@ This project was part of my hands-on exploration of AWS hosting services.
 ## Connect with Me
 
 - 🔗 [GitHub](https://github.com/nightcodex7)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/me/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tuhingarai/)
 - 🔗 [Medium Articles](https://medium.com/@nightcode_x)
 
 ---
