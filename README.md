@@ -7,7 +7,7 @@ A static HTML/CSS website deployed on an Amazon EC2 instance running Ubuntu. The
 
 - **Live URL:** [http://15.207.247.117](http://15.207.247.117)
 - **Services Used:** Amazon EC2, Apache2, Ubuntu 22.04
-- **Video Demo: Inside project folder** 
+- **Video Demo: Inside project folder (scroll down to see direct video playback)** 
 
 ---
 
@@ -19,7 +19,7 @@ A fully static site hosted using Amazon S3 and served globally through CloudFron
 - **Live URL (S3 Static website hosting):** [http://riseinternproject.s3-website.ap-south-1.amazonaws.com](http://riseinternproject.s3-website.ap-south-1.amazonaws.com)
 - **Live URL (S3 CloudFront):** [https://d2l1s49pxsynl3.cloudfront.net](https://d2l1s49pxsynl3.cloudfront.net)
 - **Services Used:** Amazon S3 (static website hosting), CloudFront (CDN)
-- **Video Demo: Inside project folder** 
+- **Video Demo: Inside project folder (scroll down to see direct video playback)** 
 
 ---
 
