@@ -16,7 +16,7 @@ A static HTML/CSS website deployed on an Amazon EC2 instance running Ubuntu. The
 A fully static site hosted using Amazon S3 and served globally through CloudFront CDN. This project showcases serverless static hosting suitable for low-cost, scalable deployments like portfolios, resumes, or landing pages.
 
 - **Live URL (S3 Static website hosting):** [http://riseinternproject.s3-website.ap-south-1.amazonaws.com](http://riseinternproject.s3-website.ap-south-1.amazonaws.com)
-- **Live URL (S3 Static website hosting):** [https://d2l1s49pxsynl3.cloudfront.net](https://d2l1s49pxsynl3.cloudfront.net)
+- **Live URL (S3 CloudFront):** [https://d2l1s49pxsynl3.cloudfront.net](https://d2l1s49pxsynl3.cloudfront.net)
 - **Services Used:** Amazon S3 (static website hosting), CloudFront (CDN)
 
 ---
